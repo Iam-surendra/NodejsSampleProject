@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "v-suthot"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.7",
+    "@types/node": "^10.0.4",
+    "protractor": "^5.3.1",
+    "typescript": "^2.8.3"
+  }
+}
